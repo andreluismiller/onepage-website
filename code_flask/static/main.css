@@ -1,0 +1,70 @@
+/*estilo banner topo home*/
+.contentA{
+    background: #00ced1;
+}
+
+.contentB .card{
+    margin: 10;
+}
+
+.contentA .card{
+    background: none;
+    margin: 0;
+}
+
+.contentC .col{
+    margin: 0;
+}
+
+.contentB{
+    background-color: #dcdcdc;
+    margin-bottom: 0;
+}
+
+.contentB .card{
+    margin: 0 10 5;
+}
+.figure{
+    margin: 5 10 5;
+    border-radius: 10px;
+}
+.contentD{
+    background-color: #dcdcdc;
+}
+
+.contentD .carousel-inner{
+    display: 500px;
+    display: block;
+    border: solid 1px grey;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.contentC{
+    background: #E0FFFF;
+    margin-top: 0;
+}
+
+.contentC h1{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin: 0% 0% 5%;
+}
+.contentC .card{
+    background: blue;
+    text-decoration-color: white;
+    text-align: center;
+    margin: 5% 8% 3%;
+    border: solid 1px grey;
+    border-radius: 10px;
+}
+
+.contentC .card-title{
+    color: white;
+}
+.contentC .card-text{
+    color: white;
+}
